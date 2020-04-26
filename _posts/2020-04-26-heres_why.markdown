@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Here's why..."
+date:       2020-04-26 19:08:24 +0000
+permalink:  heres_why
+---
+
+
+Hello World! I’m Mark! Throughout my four decades on this earth, I’ve opened restaurants, served Bloody Mary’s, run the food & beverage department at a ski resort, and been on spring break 30 times (operating them!) But recently I have found myself at a standstill. I wanted to grow, I wanted to be a present dad, and I wanted to learn. That is where my journey with software engineering began and its grown into a passion, not only for the rewarding progression that comes with career growth, but also mental and personal growth.
+ 
+I was encouraged by a friend in the field to start learning Ruby on Rails a couple of years ago, and I realized how fulfilling it is to learn a new skill.   Nothing I had done until that point required problem solving with creativity and collaboration quite as intensely as when I began learning to code.  Having a full-time job and daughter made it difficult to focus my energies on studying the way I wanted to, so jumping in full time was the logical, yet frightening, choice.
+ 
+My goal here is not just to happily learn a new skill doing something I find interesting, it’s to do it for a living while maintaining a healthy work/life balance. Software engineering allows for that at a level that my previous careers would not have been able to.  Taking the leap to study full time has been something I’ve wanted to do for the last couple of years and couldn’t be happier to have begun this journey at Flatiron School. 
+
+Cheers!
+
+Mark
